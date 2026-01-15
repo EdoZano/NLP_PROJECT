@@ -1,0 +1,238 @@
+{
+  "world": {
+    "name": "Il Cammino dei Cinque Elementi",
+    "setting": "Monastero di Yunshan, Cina 1380",
+    "description": "Un monastero nascosto tra le montagne dove i monaci padroneggiano i cinque elementi (Fuoco, Acqua, Terra, Metallo, Legno) attraverso discipline spirituali e marziali. Il monastero custodisce antichi artefatti elementali che mantengono l'equilibrio tra gli elementi.",
+    "rules": [
+      "Il monastero di Yunshan si trova nelle montagne sacre, lontano dalla città imperiale",
+      "L'anno è il 1380, dinastia Ming, non esistono tecnologie moderne",
+      "I monaci usano poteri elementali attraverso il chi e la meditazione",
+      "Ogni elemento ha un tempio dedicato con un artefatto sacro",
+      "L'equilibrio tra i cinque elementi è essenziale per la pace del regno",
+      "Il furto di un artefatto causa disastri naturali collegati a quell'elemento",
+      "La corte imperiale è in crisi: l'imperatore è morente e i generali lottano per il potere",
+      "Solo i monaci del monastero conoscono la vera natura degli artefatti elementali",
+      "Gli artefatti non possono essere usati da chi non ha addestramento spirituale senza conseguenze catastrofiche"
+    ]
+  },
+  "plot": {
+    "inciting_incident": "Durante una notte di tempesta, l'artefatto del Fuoco (la Fenice di Giada) viene rubato dal suo tempio. Li Wei scopre il furto all'alba e trova tracce che portano verso la città imperiale.",
+    "rising_action": "I monaci scoprono che il ladro è Zhang Hao, un novizio arrivato sei mesi prima. In realtà è il figlio del Generale Zhao, un potente comandante militare che aspira al trono. Zhang ha rubato l'artefatto per darlo al padre, convinto che i poteri elementali gli daranno il diritto divino di governare.",
+    "complications": "Il furto dell'artefatto del Fuoco sta causando incendi spontanei nelle province del sud. I monaci devono recuperarlo prima che i danni diventino irreversibili, ma Zhang Hao è già sulla via del ritorno verso la capitale, protetto dalle truppe di suo padre.",
+    "climax": "I monaci raggiungono Zhang Hao prima che consegni l'artefatto. Durante lo scontro, il Generale Zhao cerca di usare la Fenice di Giada senza preparazione spirituale, rischiando di scatenare un'inferno che distruggerebbe la capitale.",
+    "resolution": "I monaci devono decidere: fermare il Generale a ogni costo (causando possibili morti) o trovare un modo per convincere Zhang Hao a tradire suo padre e salvare migliaia di innocenti.",
+    "theme": "Il potere senza saggezza porta alla distruzione. La vera forza viene dall'equilibrio e dalla comprensione, non dal dominio."
+  },
+  "characters": [
+    {
+      "name": "Li Wei",
+      "age": 28,
+      "element": "Fuoco",
+      "role": "Monaco guardiano del Tempio del Fuoco",
+      "traits": [
+        "i love spicy food - Adora il tè allo zenzero piccante che prepara ogni mattina",
+        "i'm very impatient - Tende ad agire d'impulso quando vede ingiustizie",
+        "i practice martial arts daily - Maestro di kung-fu dello Stile della Fenice Ardente",
+        "i grew up in an orphanage - Cresciuto nel monastero dopo essere stato trovato abbandonato",
+        "i have a quick temper - La sua connessione con il Fuoco lo rende passionale e difficile da controllare"
+      ],
+      "backstory": "Trovato come neonato alle porte del monastero durante un'eclissi solare. I monaci lo crebbero vedendo in lui un'affinità naturale con il Fuoco. Divenne il più giovane guardiano del Tempio del Fuoco, ma la sua impulsività spesso lo mette in conflitto con gli anziani.",
+      "goals": [
+        "Recuperare la Fenice di Giada e proteggere l'equilibrio elementale",
+        "Dimostrare di essere degno della fiducia dei maestri nonostante la sua giovane età",
+        "Scoprire la verità sulle sue origini"
+      ],
+      "abilities": [
+        "Può evocare fiamme dalle mani durante la meditazione",
+        "Resistente al calore estremo",
+        "Percepisce le emozioni intense negli altri (collegate al Fuoco interiore)",
+        "Esperto nel combattimento ravvicinato e acrobatico"
+      ]
+    },
+    {
+      "name": "Mei Lin",
+      "age": 32,
+      "element": "Acqua",
+      "role": "Guaritrice e diplomatica del monastero",
+      "traits": [
+        "i volunteer at the local shelter - Scende al villaggio ogni settimana per curare i malati gratuitamente",
+        "i'm a very patient person - La sua calma è leggendaria, può meditare per giorni interi",
+        "i love swimming - Pratica meditazione immersa nel lago sacro del monastero",
+        "i lost my parents in an accident - Li persero in un'inondazione quando aveva 12 anni",
+        "i believe in second chances - Convinta che anche Zhang Hao possa essere redento"
+      ],
+      "backstory": "Figlia di pescatori, perse i genitori in un'inondazione devastante. Fu salvata dai monaci e sviluppò un profondo legame con l'Acqua, vedendola sia come forza distruttiva che fonte di vita. Divenne la più abile guaritrice del monastero.",
+      "goals": [
+        "Fermare la catastrofe causata dal furto senza spargimenti di sangue",
+        "Comprendere le motivazioni di Zhang Hao e offrirgli una via di redenzione",
+        "Proteggere gli innocenti della capitale dai disastri elementali"
+      ],
+      "abilities": [
+        "Può purificare l'acqua e usarla per guarire ferite e malattie",
+        "Controlla il flusso dell'acqua nelle vicinanze",
+        "Percepisce le emozioni attraverso le lacrime e il sudore altrui",
+        "Può respirare sott'acqua per periodi prolungati"
+      ]
+    },
+    {
+      "name": "Chen Bao",
+      "age": 40,
+      "element": "Terra",
+      "role": "Protettore del monastero e stratega",
+      "traits": [
+        "i served in the military - Ex-soldato dell'esercito imperiale, conosce le tattiche del Generale Zhao",
+        "i'm very protective of my friends - Considera i monaci la sua vera famiglia",
+        "i enjoy gardening - Coltiva il giardino di erbe medicinali del monastero",
+        "i have a strong sense of duty - Non può ignorare un'ingiustizia anche se costa sacrifici personali",
+        "i rarely show my emotions - La sua connessione con la Terra lo rende stoico e radicato"
+      ],
+      "backstory": "Soldato dell'esercito imperiale per 15 anni, testimoniò atrocità che lo portarono a disertare. Trovò rifugio nel monastero dove scoprì la sua affinità con la Terra. Ora protegge il monastero con la stessa dedizione con cui serviva l'imperatore.",
+      "goals": [
+        "Impedire al Generale Zhao di ottenere gli artefatti elementali",
+        "Usare la sua conoscenza militare per proteggere i monaci durante la missione",
+        "Trovare pace interiore accettando il suo passato"
+      ],
+      "abilities": [
+        "Può manipolare roccia e terra, creando muri o percorsi",
+        "Forza fisica sovrumana quando è radicato al terreno",
+        "Percepisce vibrazioni attraverso il suolo (può 'sentire' movimenti lontani)",
+        "Esperto stratega e combattente corpo a corpo"
+      ]
+    },
+    {
+      "name": "Feng Jian",
+      "age": 35,
+      "element": "Metallo",
+      "role": "Artigiano e filosofo del monastero",
+      "traits": [
+        "i'm a skilled craftsman - Forgia le armi e gli strumenti sacri del monastero",
+        "i value precision and discipline - Ogni sua azione è calcolata e deliberata",
+        "i collect ancient coins - Studia le monete antiche per comprendere la storia della dinastia",
+        "i'm skeptical by nature - Questiona sempre le motivazioni degli altri",
+        "i believe in justice above all - Il Metallo rappresenta la legge immutabile della natura"
+      ],
+      "backstory": "Figlio di un fabbro della corte imperiale, rifiutò di forgiare armi per una guerra ingiusta. Fu imprigionato ma fuggì e trovò rifugio nel monastero. Lì scoprì che la sua abilità nella metallurgia era in realtà una manifestazione del controllo elementale del Metallo.",
+      "goals": [
+        "Assicurare che Zhang Hao e il Generale Zhao rispondano per i loro crimini",
+        "Proteggere l'integrità degli artefatti sacri",
+        "Comprendere se le leggi degli uomini possono mai essere giuste come le leggi della natura"
+      ],
+      "abilities": [
+        "Può plasmare metallo con il tocco, riparare o forgiare senza fuoco",
+        "Percepisce i metalli nelle vicinanze (può trovare armi nascoste o monete)",
+        "La sua pelle può temporaneamente diventare dura come acciaio",
+        "Esperto nell'uso di armi tradizionali cinesi (spada jian, lancia)"
+      ]
+    },
+    {
+      "name": "Lin Yao",
+      "age": 26,
+      "element": "Legno",
+      "role": "Scout e esperta di natura",
+      "traits": [
+        "i love hiking in nature - Passa settimane nelle foreste circostanti studiando piante e animali",
+        "i'm very adaptable - Può adattarsi rapidamente a qualsiasi ambiente o situazione",
+        "i speak several dialects - Imparato viaggiando attraverso diverse province",
+        "i was raised by farmers - Cresciuta in una famiglia di agricoltori poveri",
+        "i'm optimistic even in dark times - Il Legno rappresenta crescita e rinnovamento"
+      ],
+      "backstory": "Cresciuta in una fattoria povera, sviluppò una connessione intuitiva con le piante e la natura. Durante una carestia, pregò nel bosco e le piante iniziarono a crescere rigogliose attorno a lei. I monaci la trovarono e la addestrarono nell'arte del Legno.",
+      "goals": [
+        "Tracciare Zhang Hao attraverso le foreste e le montagne usando la sua connessione con la natura",
+        "Assicurare che gli incendi causati dallo squilibrio elementale non distruggano i boschi sacri",
+        "Aiutare il gruppo a vedere che c'è sempre speranza di crescita anche dopo la distruzione"
+      ],
+      "abilities": [
+        "Può accelerare la crescita delle piante o farle muovere secondo la sua volontà",
+        "Comunica empaticamente con animali e piante",
+        "Può mimetizzarsi perfettamente in ambienti naturali",
+        "Esperta nel tracciamento e nella sopravvivenza selvaggia"
+      ]
+    },
+    {
+      "name": "Zhang Hao",
+      "age": 24,
+      "element": "Nessuno (novizio non completato)",
+      "role": "Infiltrato e ladro",
+      "traits": [
+        "i'm very charming and persuasive - Riuscì a ingannare i monaci per sei mesi",
+        "i'm torn between duty and morality - Ama suo padre ma comincia a dubitare della missione",
+        "i'm skilled in deception and stealth - Addestrato nelle arti della spia dalla nascita",
+        "i grew up in luxury - Figlio del Generale Zhao, cresciuto nei privilegi della corte",
+        "i secretly admire the monks' way of life - Durante il suo addestramento ha iniziato a comprendere la bellezza della disciplina monastica"
+      ],
+      "backstory": "Cresciuto come figlio del Generale Zhao, fu addestrato fin dall'infanzia per infiltrarsi nel monastero e rubare gli artefatti. Passò sei mesi tra i monaci, imparando le loro vie e sviluppando un conflitto interiore tra la lealtà al padre e il rispetto per i suoi insegnanti.",
+      "goals": [
+        "Consegnare la Fenice di Giada al padre per aiutarlo a conquistare il trono",
+        "Evitare di causare morti inutili tra i monaci che ha imparato a rispettare",
+        "Scoprire se esiste un modo per suo padre di ottenere il trono senza violare l'equilibrio elementale"
+      ],
+      "abilities": [
+        "Maestro del travestimento e dell'inganno",
+        "Estremamente agile e silenzioso",
+        "Addestrato nel combattimento ma non quanto i veri monaci",
+        "Conoscenza di base degli insegnamenti monastici"
+      ]
+    },
+    {
+      "name": "Generale Zhao",
+      "age": 55,
+      "element": "Nessuno",
+      "role": "Antagonista principale, contendente al trono",
+      "traits": [
+        "i'm a brilliant military strategist - Ha vinto numerose battaglie per l'imperatore",
+        "i'm ruthlessly ambitious - Crede di meritare il trono più di chiunque altro",
+        "i value power above all - Convinto che solo la forza garantisca l'ordine",
+        "i'm a devoted father - Ama profondamente Zhang Hao, suo unico figlio",
+        "i believe the ends justify the means - Pronto a sacrificare migliaia per il 'bene superiore'"
+      ],
+      "backstory": "Servì l'imperatore per 30 anni, vincendo guerre e espandendo i confini dell'impero. Crede che l'attuale erede al trono sia debole e che solo lui possa mantenere la Cina unita. Scoprì l'esistenza degli artefatti elementali e concepì un piano per ottenerli usando suo figlio.",
+      "goals": [
+        "Ottenere la Fenice di Giada e gli altri artefatti per rivendicare il mandato celeste",
+        "Proteggere Zhang Hao a tutti i costi",
+        "Diventare imperatore e 'salvare' la Cina dalla debolezza"
+      ],
+      "abilities": [
+        "Genio strategico e tattico",
+        "Comanda la lealtà di migliaia di soldati",
+        "Esperto spadaccino e combattente",
+        "Nessun potere elementale, ma profonda comprensione politica e militare"
+      ]
+    },
+    {
+      "name": "Maestro Shen",
+      "age": 78,
+      "element": "Tutti (Maestro anziano)",
+      "role": "Abate del Monastero di Yunshan",
+      "traits": [
+        "i'm incredibly wise and patient - Ha dedicato 60 anni alla meditazione e allo studio",
+        "i see the bigger picture - Comprende che questa crisi è solo un sintomo di uno squilibrio più profondo",
+        "i rarely leave the monastery - Troppo anziano per il viaggio, guida i monaci da lontano",
+        "i believe in the power of choice - Ogni persona deve scegliere il proprio cammino",
+        "i speak in riddles and parabole - Insegna attraverso storie e metafore"
+      ],
+      "backstory": "Il più antico monaco vivente del Monastero di Yunshan. Ha padroneggiato tutti e cinque gli elementi durante la sua vita, un'impresa compiuta solo una volta ogni generazione. Ora guida i monaci più giovani nel loro cammino spirituale.",
+      "goals": [
+        "Guidare i monaci nella loro missione senza interferire direttamente",
+        "Preservare l'equilibrio elementale a qualsiasi costo",
+        "Assicurare che la prossima generazione di guardiani sia pronta per sfide future"
+      ],
+      "abilities": [
+        "Può usare tutti e cinque gli elementi, ma solo per brevi periodi data l'età",
+        "Percezione spirituale estesa (può 'sentire' lo stato degli artefatti da lontano)",
+        "Saggezza profonda e comprensione della natura umana",
+        "Può comunicare attraverso meditazione sincronizzata con i suoi allievi"
+      ]
+    }
+  ],
+  "narrative_config": {
+    "max_turns": 10,
+    "max_facts_per_turn": 5,
+    "protagonist_group": ["Li Wei", "Mei Lin", "Chen Bao", "Feng Jian", "Lin Yao"],
+    "antagonist_group": ["Zhang Hao", "Generale Zhao"],
+    "supporting_characters": ["Maestro Shen"],
+    "primary_perspective": "Li Wei",
+    "tone": "Epic, philosophical, with moments of action and internal conflict",
+    "style": "Narrative style inspired by wuxia literature with spiritual and martial arts elements"
+  }
+}

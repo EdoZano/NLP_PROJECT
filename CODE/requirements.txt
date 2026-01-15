@@ -1,0 +1,9 @@
+# Requirements per il sistema di generazione narrativa
+# Installazione: pip install -r requirements.txt
+
+# Google Gemini API
+google-genai>=1.0.0
+
+# Visualizzazione grafici
+matplotlib>=3.7.0
+numpy>=1.24.0

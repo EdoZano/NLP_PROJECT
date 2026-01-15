@@ -1,0 +1,12 @@
+{
+  "total_turns": 10,
+  "total_facts": 62,
+  "total_items": 15,
+  "total_inconsistencies": 1,
+  "explicit_violations": 0,
+  "implicit_violations": 0,
+  "implicit_rules_deduced": 0,
+  "facts_per_turn": 6.2,
+  "inconsistencies_per_turn": 0.1,
+  "strategy": "A"
+}

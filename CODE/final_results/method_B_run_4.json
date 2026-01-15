@@ -1,0 +1,425 @@
+{
+  "run_id": 4,
+  "strategy": "B",
+  "turns": 10,
+  "timestamp": "2026-01-06T14:49:07.788085",
+  "execution_time_seconds": 8134.22,
+  "total_facts": 51,
+  "facts_per_turn": 5.1,
+  "total_objects": 19,
+  "total_inconsistencies": 3,
+  "inconsistency_rate": 0.3,
+  "repeated_inconsistencies": 4,
+  "inconsistencies_by_type": {
+    "anacronismo": 3
+  },
+  "avg_turn_length_words": 236.4,
+  "turn_lengths": [
+    213,
+    268,
+    227,
+    226,
+    195,
+    260,
+    298,
+    223,
+    234,
+    220
+  ],
+  "story_text": "=== Turno 1 ===\nLi Wei, il cui cuore bruciava di una fiamma tanto intensa quanto l'elemento che custodiva, seguì le deboli tracce lasciate nella terra umida: cenere fredda e un leggero odore di zolfo, insolito per quelle vette sacre. L'assenza della Fenice di Giada pesava come un macigno sul petto, e la rabbia controllata alimentava il suo *chi*. Senza indugio, discese i ripidi sentieri rocciosi, sapendo che ogni ora persa avrebbe potuto significare un passo in più verso il caos. Al suo ritorno al tempio principale, trovò gli altri monaci già in movimento, le loro espressioni austere riflettevano la gravità della situazione.\n\nMei Lin aveva preparato delle borse di erbe curative e acqua purificata, la sua aura acquatica emanava una calma forzata, mentre Chen Bao, con la sua massiccia figura, preparava le difese esterne del monastero, assicurandosi che le mura di pietra tenessero contro eventuali incursioni mentre i più forti erano assenti. Feng Jian stava affilando le sue lame di metallo, assicurando che ogni pezzo di equipaggiamento fosse perfetto, e Lin Yao aveva già tracciato le rotte più veloci e nascoste attraverso la foresta. Il Maestro Shen, con gli occhi chiusi in profonda meditazione, impartì la sua benedizione silenziosa: \"Andate, figli miei. L'equilibrio non attende. Trovate la Fenice prima che l'ombra di Zhao inghiotta la luce.\"\n\n=== Turno 2 ===\nLin Yao, il cui legame con l'elemento Legno le conferiva una vista acuta e una pazienza infinita, si era appostata su una sporgenza rocciosa nascosta, osservando la valle sottostante con il suo rudimentale cannocchiale di ottone e cristallo. Le prime luci dell'alba filtravano attraverso la nebbia, rivelando il campo base del Generale Zhao. Le sue truppe erano più numerose del previsto, una marea di armature scure che si muoveva con una disciplina marziale inquietante, ben oltre la normale organizzazione di un esercito ribelle. La sua presenza così vicina alle montagne sacre era una chiara dichiarazione di intenti: Zhao non cercava solo il potere politico, ma mirava a destabilizzare l'equilibrio che Yunshan proteggeva.\n\nNel frattempo, nella Sala della Meditazione Centrale, il resto del gruppo si riuniva attorno a una mappa disegnata sulla polvere setacciata dal Tempio della Terra. Li Wei, ancora scosso dal fallimento della sua custodia, indicava le tracce che aveva seguito: \"Le tracce di zolfo portano inequivocabilmente verso la capitale, ma Zhao ha chiaramente mandato una squadra d'élite per il furto, mentre il grosso delle sue forze si sta posizionando qui per intimidirci o, peggio, per assediarci se non torniamo in tempo.\" Chen Bao, con la sua solida presenza terrena, annuì gravemente: \"Il monastero è sigillato, ma non possiamo permetterci di essere assediati. Dobbiamo recuperare la Fenice prima che Zhao possa usarne il potere per alimentare le sue ambizioni belliche. Il nostro gruppo — Li Wei, Mei Lin, Feng Jian e io — deve muoversi rapidamente e con discrezione. Lin Yao, tu sarai i nostri occhi e le nostre orecchie finché non saremo troppo lontani per comunicare.\"\n\n=== Turno 3 ===\nMei Lin, con la sua sensibilità legata all'Acqua, percepiva le correnti emotive più sottili che attraversavano il monastero, e quella di Zhang Hao era una delle più turbolente. Mentre preparava le sue borse di erbe curative e acqua purificata per la missione, notò lo sguardo sfuggente del novizio, i suoi pugni serrati mentre osservava Li Wei e gli altri prepararsi alla partenza. Sapeva che la lealtà di Zhang Hao era divisa: il padre, un uomo di potere al servizio della corte, lo aveva spinto a infiltrarsi a Yunshan, ma la disciplina e la pace trovate tra i monaci avevano piantato in lui un seme di rispetto sincero. Era un conflitto doloroso che minacciava di spezzare la sua nascente disciplina marziale.\n\nIl Maestro Shen, seduto nella Sala della Meditazione, aveva notato l'agitazione del giovane apprendista. Nonostante l'urgenza della situazione – il furto della Fenice e l'assedio imminente – l'Abate sapeva che l'equilibrio non riguardava solo gli elementi esterni, ma anche quelli interiori. Con un gesto calmo, Shen invitò Zhang Hao ad avvicinarsi, offrendogli un piccolo contenitore di ceramica contenente cenere purificata del Tempio del Fuoco. \"Il tuo cuore è un campo di battaglia, giovane,\" mormorò il Maestro con voce pacata, \"ma anche la terra più arida può essere irrigata. La scelta che farai ora definirà non solo il tuo cammino, ma forse anche il destino di chi ami.\"\n\n=== Turno 4 ===\nIl Generale Zhao, seduto al centro del suo accampamento militare temporaneo, tamburellava nervosamente le dita sul suo scudo decorato. La notizia che i monaci si erano mossi, intercettata dalle sue spie meno discrete, aveva acceso una scintilla di furia nei suoi occhi. \"Non permetteremo loro di raggiungere la capitale con la Fenice,\" tuonò, la sua voce echeggiando tra le tende. \"Inviate i cavalieri più veloci lungo la Via delle Nebbie; devono intercettarli prima che lascino le pendici orientali. Non devono pensare di potersi nascondere nel caos della città.\" L'ordine fu trasmesso con urgenza, e presto le pattuglie d'élite di Zhao si dispersero come ombre, cercando di prevedere il percorso furtivo dei monaci.\n\nNel frattempo, Li Wei guidava il piccolo gruppo attraverso un sentiero boscoso, il silenzio rotto solo dal fruscio delle loro vesti e dal battito accelerato dei loro cuori. La mappa mentale tracciata sulla polvere si era impressa nelle menti di tutti, ma la fretta li rendeva vulnerabili. Chen Bao, con la sua solida presenza legata alla Terra, scrutava l'ambiente circostante, percependo le vibrazioni anomale del terreno. \"Li Wei,\" sussurrò, fermandosi bruscamente, \"l'aria è troppo tesa. Sento movimenti rapidi, troppi cavalli che non dovrebbero essere qui.\" La minaccia del Generale Zhao era arrivata più velocemente del previsto, costringendo i quattro a riconsiderare la loro furtività in favore di una velocità disperata per superare l'imboscata imminente.\n\n=== Turno 5 ===\nLin Yao si sollevò sul ramo più alto di un antico pino, il vento freddo delle montagne che le sferzava il viso. Puntò il cannocchiale di ottone e cristallo verso le valli sottostanti, i suoi occhi, affinati da anni di osservazione della natura, scrutavano ogni dettaglio. La sua connessione con l'elemento Legno le permetteva di percepire la vitalità del bosco, ma anche le anomalie. Le tracce di zolfo che aveva rilevato in precedenza, segno di un'attività insolita o di un fuoco non naturale, la preoccupavano. La Via delle Nebbie, il percorso più diretto verso le terre basse, era chiaramente sorvegliata, proprio come aveva temuto.\n\nCon un sospiro, abbassò lo strumento. Doveva trovare un passaggio che Zhao non si aspettasse, un sentiero dimenticato o un cunicolo tra le rocce che solo la vegetazione più resistente conosceva. Il suo compito era vitale: guidare Li Wei e gli altri in sicurezza, evitando lo scontro frontale che le truppe del Generale avrebbero preferito. Lin Yao si concentrò, lasciando che la sua mente si fondesse con la rete di radici e rami intorno a lei, cercando una linea verde, un percorso nascosto che la Fenice potesse attraversare senza essere intercettata.\n\n=== Turno 6 ===\nZhang Hao strinse tra le mani il piccolo contenitore di ceramica, la cenere purificata del Tempio del Fuoco pesante come un macigno nel suo palmo. Il Maestro Shen aveva parlato con una chiarezza tagliente: il Generale Zhao, suo padre, era una minaccia per l'equilibrio del regno, e la sua ascesa avrebbe portato solo distruzione. La cenere, simbolo della purificazione del Fuoco, era un invito a bruciare i legami terreni in nome di un bene superiore. Il novizio sentiva il conflitto lacerarlo: l'amore filiale e il giuramento non pronunciato verso la sua famiglia contro la responsabilità che il monastero gli aveva involontariamente imposto. Se avesse scelto di avvertire suo padre, avrebbe condannato i villaggi innocenti che Zhao era pronto a sacrificare per assicurarsi il controllo della Via delle Nebbie.\n\nMentre il sole iniziava la sua lenta discesa dietro le vette aguzze, Zhang Hao prese una decisione carica di amarezza. La cenere gli scivolò dalle dita, disperdendosi nel vento freddo della montagna, un segno silenzioso che la sua lealtà era stata irrevocabilmente spostata. Non poteva permettere che il sangue innocente macchiasse ulteriormente la sua anima già tormentata. Invece di dirigersi verso i quartieri delle guardie per avvisare suo padre, si mosse furtivamente verso la biblioteca, cercando la mappa più dettagliata delle gallerie sotterranee che si diceva connettevano Yunshan ai boschi esterni, l'unica via che Lin Yao non avrebbe potuto prevedere facilmente. Il suo compito ora era un altro: non salvare suo padre, ma rallentare l'avanzata di Zhao abbastanza a lungo da permettere a Li Wei e alla Fenice di raggiungere la capitale.\n\n=== Turno 7 ===\nLi Wei, il cui cuore bruciava di un fuoco controllato eppure impaziente, aveva seguito le flebili tracce lasciate da Zhang Hao. Non erano impronte visibili nella polvere, ma una scia sottile di energia residua, un leggero sentore di cenere calda che solo un maestro del Fuoco poteva percepire. La cenere purificata del Tempio era un marchio inconfondibile per chi comprendeva la sacralità del gesto. Inizialmente confuso dalla decisione del novizio – il figlio del nemico che compie un atto di devozione – Li Wei non poteva ignorare il potenziale pericolo che Zhang Hao potesse ancora rappresentare, o l'urgenza di assicurarsi che il suo piano fosse autentico. Mentre il monaco si muoveva con la rapidità di una fiamma danzante verso la biblioteca, gli altri monaci stavano già ultimando i preparativi. Chen Bao stava assicurando le provviste essenziali per il viaggio, Mei Lin preparava le borse di erbe curative e acqua purificata con meticolosa attenzione, e Feng Jian controllava le lame di metallo, affilate al punto da poter tagliare il vento.\n\nL'Abate Shen aveva dato l'assenso silenzioso alla partenza imminente, sapendo che il tempo stringeva. Li Wei sapeva che Zhang Hao non era un combattente esperto, ma la sua conoscenza delle vie nascoste del monastero era ineguagliabile. Raggiungere la biblioteca prima che il novizio trovasse le mappe delle gallerie sotterranee era cruciale; se Zhang Hao fosse partito da solo, avrebbe potuto attirare l'attenzione indesiderata proprio nel momento in cui Lin Yao cercava di mantenere la segretezza. Con un ultimo, rapido sguardo verso il cortile dove il Legno e la Terra si preparavano, Li Wei accelerò il passo, le sue vesti fruscianti come foglie secche al vento ardente, pronto a confrontare il figlio del nemico e assicurarsi che la sua lealtà fosse genuina prima di lanciarsi nell'ignoto percorso verso la capitale.\n\n=== Turno 8 ===\nLin Yao, con il cannocchiale di ottone e cristallo puntato verso la valle nebbiosa, tracciò con attenzione il movimento delle truppe del Generale Zhao. La sua connessione con l'elemento Legno gli permetteva di percepire anche la minima alterazione nella flora circostante, e le colonne di fumo che si alzavano a distanza confermavano l'accampamento nemico in espansione. L'aria era pesante, carica di presagi, e la sua osservazione meticolosa serviva a calibrare ogni passo del loro piano rischioso. Mentre lei registrava mentalmente la disposizione delle forze, nel cortile centrale si stringeva il cerchio dei monaci rimasti, un’ultima consultazione prima della separazione.\n\nChen Bao, con la sua immobilità terrena, delineava con la punta del dito una mappa improvvisata sulla polvere setacciata del cortile, indicando i punti di maggiore resistenza e le vie di fuga secondarie. Mei Lin sistemava le ultime borse di erbe curative e acqua purificata, i suoi occhi liquidi riflettevano la serietà del momento, pronta a seguire chiunque avesse bisogno del suo tocco ristoratore. Feng Jian, silenzioso, lucidava le lame di metallo, assicurandosi che ogni filo d'acciaio fosse un'estensione della sua volontà, mentre l'Abate Shen osservava tutto con un'espressione impenetrabile, il suo tacito assenso a spingere i suoi discepoli al limite della loro disciplina. L'obiettivo era chiaro: guadagnare tempo prezioso per Lin Yao, anche se questo significava sfidare apertamente la furia imminente di Zhao.\n\n=== Turno 9 ===\nMei Lin, con la sua profonda connessione all'elemento Acqua, sentiva le correnti emotive nel monastero come i flussi sotterranei di un fiume. Mentre preparava le borse di erbe curative e l'acqua purificata per la missione imminente, una nota di profonda agitazione proveniva dalla direzione degli alloggi dei novizi. Percepiì chiaramente il conflitto interiore di Zhang Hao: l'ombra del dovere filiale verso suo padre, presumibilmente legato agli intrighi del Generale Zhao, si scontrava con il rispetto e la gratitudine che provava per la pace e la saggezza impartite dai monaci di Yunshan. Questa lotta interna rendeva le sue azioni imprevedibili, un fattore che preoccupava Mei Lin più di qualsiasi attacco esterno.\n\nNel frattempo, Li Wei, guidato dall'urgenza, aveva raggiunto la porta della biblioteca, il legno antico che scricchiolava sotto la sua mano tesa. L'aria qui era più fredda, satura di inchiostro secco e pergamena antica. Sapeva che la mappa delle gallerie sotterranee era conservata nell'archivio più protetto, un luogo che solo un novizio con accesso limitato, come Zhang Hao, avrebbe potuto sperare di violare con rapidità. Se Zhang Hao avesse trovato quella mappa, l'intera strategia di difesa e la via di fuga del monastero sarebbero state compromesse, fornendo al Generale Zhao un vantaggio tattico devastante non appena avesse stretto l'assedio. Li Wei si preparò, il suo *chi* già ardente, pronto a manifestarsi come un lampo di calore per superare qualsiasi ostacolo posto dal giovane traditore.\n\n=== Turno 10 ===\nIl Generale Zhao, dalla sua tenda principale, lanciò un ordine perentorio che echeggiò tra le file delle sue truppe accampate: ogni via d'uscita dal passo montano doveva essere sigillata. La sua intenzione era chiara: impedire ai monaci di Yunshan di raggiungere la capitale imperiale e mettere in guardia l'Imperatore, trasformando il monastero in una trappola mortale. Le sue truppe iniziarono immediatamente a erigere barricate improvvisate con tronchi e massi appena spostati, mentre pattuglie veloci venivano inviate a coprire i sentieri meno battuti, anticipando qualsiasi tentativo di sortita furtiva.\n\nNel frattempo, Li Wei aveva raggiunto la biblioteca, un luogo di quiete solitamente inviolabile, ma ora pervaso da una tensione palpabile. Trovò la porta chiusa, non con un lucchetto, ma con una sottile barriera di *chi* che riconobbe immediatamente come la firma di Zhang Hao. Il giovane novizio, lacerato dal suo dilemma, aveva tentato di ostacolare l'accesso alla preziosa Mappa delle gallerie sotterranee. Li Wei inspirò profondamente, sentendo il calore del suo elemento farsi più intenso nel petto. Non poteva permettersi esitazioni; se Zhao avesse avuto quella mappa, il monastero sarebbe caduto senza combattere, e l'equilibrio elementale sarebbe stato irrimediabilmente spezzato. Con un ringhio sommesso, Li Wei lasciò che il suo *chi* si manifestasse come un’ondata di calore concentrato, pronto a sciogliere la barriera e affrontare qualunque resistenza Zhang Hao avesse lasciato.\n",
+  "story_state": {
+    "facts": [
+      {
+        "id": 1,
+        "description": "Durante una notte di tempesta, l'artefatto del Fuoco (la Fenice di Giada) viene rubato dal suo tempio. Li Wei scopre il furto all'alba e trova tracce che portano verso la città imperiale.",
+        "turn_created": 0
+      },
+      {
+        "id": 2,
+        "description": "Li Wei scopre tracce di un furto (cenere fredda e zolfo) che indicano la scomparsa della Fenice di Giada.",
+        "turn_created": 0
+      },
+      {
+        "id": 3,
+        "description": "Li Wei e altri monaci intraprendono una missione per recuperare l'artefatto.",
+        "turn_created": 0
+      },
+      {
+        "id": 4,
+        "description": "Il Maestro Shen benedice i monaci e rivela che l'ombra di Zhao è collegata al caos imminente.",
+        "turn_created": 0
+      },
+      {
+        "id": 5,
+        "description": "I monaci si organizzano rapidamente: Mei Lin prepara provviste, Chen Bao fortifica il monastero, Feng Jian prepara le armi e Lin Yao pianifica le rotte.",
+        "turn_created": 0
+      },
+      {
+        "id": 6,
+        "description": "Lin Yao sta spiando il campo base del Generale Zhao, notando che le sue truppe sono più numerose e disciplinate del previsto.",
+        "turn_created": 1
+      },
+      {
+        "id": 7,
+        "description": "La presenza delle truppe di Zhao vicino alle montagne sacre è vista come un tentativo di destabilizzare l'equilibrio protetto da Yunshan.",
+        "turn_created": 1
+      },
+      {
+        "id": 8,
+        "description": "Il gruppo si riunisce nella Sala della Meditazione Centrale attorno a una mappa disegnata sulla polvere del Tempio della Terra.",
+        "turn_created": 1
+      },
+      {
+        "id": 9,
+        "description": "Li Wei ha scoperto tracce di zolfo che indicano che la squadra d'élite di Zhao è diretta verso la capitale.",
+        "turn_created": 1
+      },
+      {
+        "id": 10,
+        "description": "Il Generale Zhao ha inviato una squadra d'élite per rubare l'artefatto sacro (la Fenice) mentre il grosso delle sue forze si posiziona per assediare il monastero.",
+        "turn_created": 1
+      },
+      {
+        "id": 11,
+        "description": "È stata presa la decisione che Li Wei, Mei Lin, Feng Jian e Chen Bao si muoveranno rapidamente e con discrezione per recuperare la Fenice.",
+        "turn_created": 1
+      },
+      {
+        "id": 12,
+        "description": "Lin Yao è stata incaricata di fungere da vedetta e fonte di informazione per il gruppo in missione.",
+        "turn_created": 1
+      },
+      {
+        "id": 13,
+        "description": "Mei Lin percepisce la turbolenza emotiva di Zhang Hao.",
+        "turn_created": 2
+      },
+      {
+        "id": 14,
+        "description": "Zhang Hao è infiltrato a Yunshan su ordine del padre, un uomo di potere al servizio della corte.",
+        "turn_created": 2
+      },
+      {
+        "id": 15,
+        "description": "È in corso la preparazione per una missione urgente a causa del furto della Fenice e di un imminente assedio.",
+        "turn_created": 2
+      },
+      {
+        "id": 16,
+        "description": "Il Maestro Shen è consapevole del conflitto interiore di Zhang Hao.",
+        "turn_created": 2
+      },
+      {
+        "id": 17,
+        "description": "Il Maestro Shen offre a Zhang Hao cenere purificata del Tempio del Fuoco, esortandolo a fare una scelta cruciale.",
+        "turn_created": 2
+      },
+      {
+        "id": 18,
+        "description": "Il Generale Zhao è a conoscenza del movimento dei monaci e ha ordinato l'intercettazione lungo la Via delle Nebbie.",
+        "turn_created": 3
+      },
+      {
+        "id": 19,
+        "description": "Li Wei e il suo gruppo stanno fuggendo con un oggetto sacro (la Fenice) verso la capitale.",
+        "turn_created": 3
+      },
+      {
+        "id": 20,
+        "description": "Chen Bao, legato all'elemento Terra, percepisce l'avvicinarsi delle truppe di Zhao.",
+        "turn_created": 3
+      },
+      {
+        "id": 21,
+        "description": "Lin Yao sta sorvegliando le valli sottostanti dal pino più alto, cercando un percorso sicuro.",
+        "turn_created": 4
+      },
+      {
+        "id": 22,
+        "description": "Lin Yao percepisce tracce di zolfo, indicando attività insolita o fuoco non naturale.",
+        "turn_created": 4
+      },
+      {
+        "id": 23,
+        "description": "La Via delle Nebbie è sorvegliata dalle truppe del Generale.",
+        "turn_created": 4
+      },
+      {
+        "id": 24,
+        "description": "Il compito di Lin Yao è guidare Li Wei e altri in sicurezza, evitando lo scontro frontale.",
+        "turn_created": 4
+      },
+      {
+        "id": 25,
+        "description": "Lin Yao sta cercando un percorso nascosto usando la sua connessione con l'elemento Legno.",
+        "turn_created": 4
+      },
+      {
+        "id": 26,
+        "description": "Il Maestro Shen ha rivelato a Zhang Hao che il Generale Zhao (padre di Zhang Hao) è una minaccia per l'equilibrio del regno.",
+        "turn_created": 5
+      },
+      {
+        "id": 27,
+        "description": "Zhang Hao ha deciso di non avvertire suo padre, spostando la sua lealtà verso il monastero/bene superiore.",
+        "turn_created": 5
+      },
+      {
+        "id": 28,
+        "description": "Zhang Hao ha disperso la cenere purificata del Tempio del Fuoco come segno della sua decisione.",
+        "turn_created": 5
+      },
+      {
+        "id": 29,
+        "description": "Zhang Hao si dirige verso la biblioteca per cercare mappe delle gallerie sotterranee.",
+        "turn_created": 5
+      },
+      {
+        "id": 30,
+        "description": "Il nuovo obiettivo di Zhang Hao è rallentare l'avanzata di Zhao per permettere a Li Wei e alla Fenice di raggiungere la capitale.",
+        "turn_created": 5
+      },
+      {
+        "id": 31,
+        "description": "Li Wei sta seguendo Zhang Hao, percependo la sua scia energetica (traccia di cenere calda).",
+        "turn_created": 6
+      },
+      {
+        "id": 32,
+        "description": "Li Wei è incerto sulla motivazione di Zhang Hao (atto di devozione vs. potenziale pericolo).",
+        "turn_created": 6
+      },
+      {
+        "id": 33,
+        "description": "Altri monaci stanno preparando una missione: Chen Bao assicura provviste, Mei Lin prepara erbe e acqua, Feng Jian controlla lame di metallo.",
+        "turn_created": 6
+      },
+      {
+        "id": 34,
+        "description": "L'Abate Shen ha dato il consenso silenzioso alla partenza imminente.",
+        "turn_created": 6
+      },
+      {
+        "id": 35,
+        "description": "L'obiettivo immediato di Li Wei è raggiungere la biblioteca prima di Zhang Hao per impedirgli di trovare mappe delle gallerie sotterranee.",
+        "turn_created": 6
+      },
+      {
+        "id": 36,
+        "description": "La missione generale sembra essere collegata alla crisi della corte imperiale e alla necessità di mantenere la segretezza mentre Lin Yao agisce (presumibilmente verso la capitale).",
+        "turn_created": 6
+      },
+      {
+        "id": 37,
+        "description": "Lin Yao sta monitorando le truppe del Generale Zhao usando la sua connessione con l'elemento Legno.",
+        "turn_created": 7
+      },
+      {
+        "id": 38,
+        "description": "Le truppe del Generale Zhao si stanno espandendo e sono accampate vicino al monastero.",
+        "turn_created": 7
+      },
+      {
+        "id": 39,
+        "description": "I monaci rimasti si stanno consultando per un piano d'azione prima di separarsi.",
+        "turn_created": 7
+      },
+      {
+        "id": 40,
+        "description": "Il piano prevede che Lin Yao guadagni tempo prezioso, sfidando l'imminente furia di Zhao.",
+        "turn_created": 7
+      },
+      {
+        "id": 41,
+        "description": "Chen Bao sta delineando una mappa tattica sulla polvere.",
+        "turn_created": 7
+      },
+      {
+        "id": 42,
+        "description": "Mei Lin sta preparando rifornimenti medici e idrici.",
+        "turn_created": 7
+      },
+      {
+        "id": 43,
+        "description": "Feng Jian sta affilando le sue armi metalliche.",
+        "turn_created": 7
+      },
+      {
+        "id": 44,
+        "description": "Mei Lin percepisce la profonda lotta interiore di Zhang Hao, causata dal conflitto tra dovere filiale (legato al Generale Zhao) e lealtà al monastero.",
+        "turn_created": 8
+      },
+      {
+        "id": 45,
+        "description": "Li Wei si dirige verso la biblioteca per recuperare la mappa delle gallerie sotterranee.",
+        "turn_created": 8
+      },
+      {
+        "id": 46,
+        "description": "Li Wei teme che Zhang Hao possa ottenere la mappa, compromettendo la difesa e la fuga del monastero, dando un vantaggio al Generale Zhao.",
+        "turn_created": 8
+      },
+      {
+        "id": 47,
+        "description": "Li Wei si prepara a usare il suo *chi* (manifestato come calore/fuoco) per superare gli ostacoli posti da Zhang Hao.",
+        "turn_created": 8
+      },
+      {
+        "id": 48,
+        "description": "Il Generale Zhao ordina di sigillare tutte le vie d'uscita dal passo montano per intrappolare i monaci di Yunshan.",
+        "turn_created": 9
+      },
+      {
+        "id": 49,
+        "description": "Li Wei raggiunge la biblioteca e scopre che la porta è bloccata da una barriera di *chi* creata da Zhang Hao.",
+        "turn_created": 9
+      },
+      {
+        "id": 50,
+        "description": "Li Wei decide di usare il suo potere elementale (calore) per sciogliere la barriera e accedere alla Mappa delle gallerie sotterranee.",
+        "turn_created": 9
+      },
+      {
+        "id": 51,
+        "description": "La posta in gioco è la Mappa delle gallerie sotterranee, la cui acquisizione da parte di Zhao metterebbe in pericolo il monastero e l'equilibrio elementale.",
+        "turn_created": 9
+      }
+    ],
+    "items": [
+      {
+        "name": "Fenice di Giada",
+        "location": "Sconosciuto (rubata)",
+        "status": "Mancante (Artefatto Elementale del Fuoco)",
+        "discovered_turn": 0
+      },
+      {
+        "name": "Borse di erbe curative e acqua purificata",
+        "location": "Mei Lin",
+        "status": "Preparate per il viaggio",
+        "discovered_turn": 0
+      },
+      {
+        "name": "Lame di metallo",
+        "location": "Feng Jian",
+        "status": "Affilate e pronte",
+        "discovered_turn": 0
+      },
+      {
+        "name": "Cannocchiale di ottone e cristallo",
+        "location": "Lin Yao",
+        "status": "In uso (per osservazione)",
+        "discovered_turn": 1
+      },
+      {
+        "name": "Mappa disegnata sulla polvere setacciata",
+        "location": "Gruppo di monaci",
+        "status": "In uso (per pianificazione)",
+        "discovered_turn": 1
+      },
+      {
+        "name": "Tracce di zolfo",
+        "location": "Li Wei",
+        "status": "Scoperta (indizio)",
+        "discovered_turn": 1
+      },
+      {
+        "name": "Fenice",
+        "location": "Generale Zhao (presunto obiettivo)",
+        "status": "Rubata/In fase di furto (implicito)",
+        "discovered_turn": 1
+      },
+      {
+        "name": "Borse di erbe curative",
+        "location": "Mei Lin",
+        "status": "In preparazione",
+        "discovered_turn": 2
+      },
+      {
+        "name": "Acqua purificata",
+        "location": "Mei Lin",
+        "status": "In preparazione",
+        "discovered_turn": 2
+      },
+      {
+        "name": "Contenitore di ceramica",
+        "location": "Maestro Shen",
+        "status": "Contiene cenere purificata",
+        "discovered_turn": 2
+      },
+      {
+        "name": "Cenere purificata del Tempio del Fuoco",
+        "location": "Maestro Shen",
+        "status": "Offerta a Zhang Hao",
+        "discovered_turn": 2
+      },
+      {
+        "name": "La Fenice",
+        "location": "Sconosciuto (rubata)",
+        "status": "Artefatto sacro rubato",
+        "discovered_turn": 2
+      },
+      {
+        "name": "Scudo decorato",
+        "location": "Generale Zhao",
+        "status": "Usato come superficie per tamburellare",
+        "discovered_turn": 3
+      },
+      {
+        "name": "Mappa delle gallerie sotterranee",
+        "location": "Zhang Hao (ricerca)",
+        "status": "Cercata nella biblioteca",
+        "discovered_turn": 5
+      },
+      {
+        "name": "Cenere purificata del Tempio",
+        "location": "Zhang Hao (come marchio)",
+        "status": "Usata come traccia energetica",
+        "discovered_turn": 6
+      },
+      {
+        "name": "Provviste essenziali",
+        "location": "Chen Bao",
+        "status": "In preparazione per il viaggio",
+        "discovered_turn": 6
+      },
+      {
+        "name": "Mappe delle gallerie sotterranee",
+        "location": "Zhang Hao (ricerca)",
+        "status": "Non ancora trovate",
+        "discovered_turn": 6
+      },
+      {
+        "name": "Nota di profonda agitazione",
+        "location": "Zhang Hao",
+        "status": "Stato emotivo/mentale",
+        "discovered_turn": 8
+      },
+      {
+        "name": "Pergamena antica",
+        "location": "Biblioteca",
+        "status": "Presente",
+        "discovered_turn": 8
+      }
+    ],
+    "inconsistencies": [
+      {
+        "turn": 1,
+        "type": "anacronismo",
+        "description": "ANACRONISMO: Cannocchiale di ottone e cristallo. Sebbene i principi ottici fossero noti, un cannocchiale rudimentale (telescopio) non fu inventato in Europa prima del 1608, e la sua diffusione in Cina è successiva al 1380.",
+        "story_chunk": "Lin Yao, il cui legame con l'elemento Legno le conferiva una vista acuta e una pazienza infinita, si era appostata su una sporgenza rocciosa nascosta,..."
+      },
+      {
+        "turn": 4,
+        "type": "anacronismo",
+        "description": "ANACRONISMO: Cannocchiale di ottone e cristallo (I primi telescopi/cannocchiali rudimentali apparvero in Europa solo all'inizio del XVII secolo, ben oltre il 1380 in Cina).",
+        "story_chunk": "Lin Yao si sollevò sul ramo più alto di un antico pino, il vento freddo delle montagne che le sferzava il viso. Puntò il cannocchiale di ottone e cris..."
+      },
+      {
+        "turn": 7,
+        "type": "anacronismo",
+        "description": "ANACRONISMO: Cannocchiale di ottone e cristallo. Sebbene i principi ottici fossero noti, un cannocchiale (telescopio rifrattore) come strumento portatile e funzionale non fu inventato in Europa prima del 1608, e la sua diffusione in Cina sarebbe stata molto successiva al 1380.",
+        "story_chunk": "Lin Yao, con il cannocchiale di ottone e cristallo puntato verso la valle nebbiosa, tracciò con attenzione il movimento delle truppe del Generale Zhao..."
+      }
+    ]
+  }
+}

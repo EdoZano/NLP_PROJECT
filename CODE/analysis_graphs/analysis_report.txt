@@ -1,0 +1,23 @@
+======================================================================
+REPORT ANALISI COMPARATIVA METHOD A vs B
+======================================================================
+
+Data esperimento: 2026-01-06T11:33:19.200345
+Run per metodo: 10
+Turni per storia: 10
+
+METRICHE AGGREGATE
+----------------------------------------------------------------------
+
+Metrica                                  Method A        Method B       
+----------------------------------------------------------------------
+Media fatti                              63.6            50.0           
+Media oggetti                            18.7            18.7           
+Media incoerenze                         1.2             3.4            
+Media incoerenze ripetute                0.1             3.7            
+Rate incoerenze/turno                    0.12            0.34           
+Lunghezza media turno                    325.05          238.14         
+
+IMPROVEMENT Method A rispetto a B:
+  - Riduzione incoerenze: 64.7%
+  - Riduzione incoerenze ripetute: 97.3%

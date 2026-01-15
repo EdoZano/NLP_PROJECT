@@ -1,0 +1,610 @@
+{
+  "experiment": {
+    "date": "2026-01-06T11:33:19.200345",
+    "runs_per_method": 10,
+    "turns_per_story": 10
+  },
+  "method_A": [
+    {
+      "run_id": 1,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T11:37:57.103774",
+      "execution_time_seconds": 277.9,
+      "total_facts": 63,
+      "facts_per_turn": 6.3,
+      "total_objects": 20,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 309.4,
+      "turn_lengths": [
+        296,
+        298,
+        248,
+        294,
+        256,
+        299,
+        282,
+        223,
+        244,
+        654
+      ]
+    },
+    {
+      "run_id": 2,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T11:42:37.678574",
+      "execution_time_seconds": 280.56,
+      "total_facts": 65,
+      "facts_per_turn": 6.5,
+      "total_objects": 20,
+      "total_inconsistencies": 2,
+      "inconsistency_rate": 0.2,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 2
+      },
+      "avg_turn_length_words": 329.1,
+      "turn_lengths": [
+        296,
+        293,
+        288,
+        272,
+        234,
+        338,
+        216,
+        279,
+        314,
+        761
+      ]
+    },
+    {
+      "run_id": 3,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T11:47:16.214987",
+      "execution_time_seconds": 278.51,
+      "total_facts": 53,
+      "facts_per_turn": 5.3,
+      "total_objects": 19,
+      "total_inconsistencies": 2,
+      "inconsistency_rate": 0.2,
+      "repeated_inconsistencies": 1,
+      "inconsistencies_by_type": {
+        "anacronismo": 2
+      },
+      "avg_turn_length_words": 321.1,
+      "turn_lengths": [
+        322,
+        298,
+        297,
+        265,
+        255,
+        324,
+        272,
+        278,
+        216,
+        684
+      ]
+    },
+    {
+      "run_id": 4,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T11:51:55.565122",
+      "execution_time_seconds": 279.33,
+      "total_facts": 62,
+      "facts_per_turn": 6.2,
+      "total_objects": 18,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 350.7,
+      "turn_lengths": [
+        310,
+        334,
+        338,
+        256,
+        234,
+        266,
+        337,
+        309,
+        267,
+        856
+      ]
+    },
+    {
+      "run_id": 5,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T11:56:34.626180",
+      "execution_time_seconds": 279.03,
+      "total_facts": 68,
+      "facts_per_turn": 6.8,
+      "total_objects": 19,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 315.2,
+      "turn_lengths": [
+        274,
+        273,
+        265,
+        257,
+        257,
+        339,
+        347,
+        345,
+        260,
+        535
+      ]
+    },
+    {
+      "run_id": 6,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:01:14.168249",
+      "execution_time_seconds": 279.53,
+      "total_facts": 70,
+      "facts_per_turn": 7.0,
+      "total_objects": 19,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 335.9,
+      "turn_lengths": [
+        317,
+        271,
+        348,
+        261,
+        268,
+        310,
+        292,
+        214,
+        246,
+        832
+      ]
+    },
+    {
+      "run_id": 7,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:05:54.651013",
+      "execution_time_seconds": 280.47,
+      "total_facts": 65,
+      "facts_per_turn": 6.5,
+      "total_objects": 14,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 332.5,
+      "turn_lengths": [
+        305,
+        333,
+        353,
+        314,
+        252,
+        326,
+        264,
+        333,
+        287,
+        558
+      ]
+    },
+    {
+      "run_id": 8,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:10:33.599639",
+      "execution_time_seconds": 278.93,
+      "total_facts": 64,
+      "facts_per_turn": 6.4,
+      "total_objects": 21,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 306.6,
+      "turn_lengths": [
+        352,
+        273,
+        309,
+        270,
+        248,
+        248,
+        262,
+        280,
+        262,
+        562
+      ]
+    },
+    {
+      "run_id": 9,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:15:11.894059",
+      "execution_time_seconds": 278.27,
+      "total_facts": 61,
+      "facts_per_turn": 6.1,
+      "total_objects": 21,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 323.0,
+      "turn_lengths": [
+        317,
+        251,
+        266,
+        329,
+        268,
+        247,
+        233,
+        262,
+        271,
+        786
+      ]
+    },
+    {
+      "run_id": 10,
+      "strategy": "A",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:19:51.885653",
+      "execution_time_seconds": 279.96,
+      "total_facts": 65,
+      "facts_per_turn": 6.5,
+      "total_objects": 16,
+      "total_inconsistencies": 1,
+      "inconsistency_rate": 0.1,
+      "repeated_inconsistencies": 0,
+      "inconsistencies_by_type": {
+        "anacronismo": 1
+      },
+      "avg_turn_length_words": 327.0,
+      "turn_lengths": [
+        272,
+        340,
+        303,
+        261,
+        291,
+        270,
+        301,
+        318,
+        268,
+        646
+      ]
+    }
+  ],
+  "method_B": [
+    {
+      "run_id": 1,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:24:25.092283",
+      "execution_time_seconds": 273.18,
+      "total_facts": 52,
+      "facts_per_turn": 5.2,
+      "total_objects": 14,
+      "total_inconsistencies": 4,
+      "inconsistency_rate": 0.4,
+      "repeated_inconsistencies": 4,
+      "inconsistencies_by_type": {
+        "anacronismo": 3,
+        "contraddizione": 1
+      },
+      "avg_turn_length_words": 231.6,
+      "turn_lengths": [
+        278,
+        221,
+        192,
+        238,
+        219,
+        252,
+        219,
+        241,
+        240,
+        216
+      ]
+    },
+    {
+      "run_id": 2,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:28:59.534070",
+      "execution_time_seconds": 274.42,
+      "total_facts": 48,
+      "facts_per_turn": 4.8,
+      "total_objects": 29,
+      "total_inconsistencies": 3,
+      "inconsistency_rate": 0.3,
+      "repeated_inconsistencies": 3,
+      "inconsistencies_by_type": {
+        "anacronismo": 3
+      },
+      "avg_turn_length_words": 249.2,
+      "turn_lengths": [
+        269,
+        250,
+        217,
+        211,
+        246,
+        239,
+        340,
+        240,
+        263,
+        217
+      ]
+    },
+    {
+      "run_id": 3,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T12:33:33.554272",
+      "execution_time_seconds": 274.0,
+      "total_facts": 49,
+      "facts_per_turn": 4.9,
+      "total_objects": 18,
+      "total_inconsistencies": 2,
+      "inconsistency_rate": 0.2,
+      "repeated_inconsistencies": 2,
+      "inconsistencies_by_type": {
+        "anacronismo": 2
+      },
+      "avg_turn_length_words": 234.0,
+      "turn_lengths": [
+        251,
+        218,
+        215,
+        246,
+        225,
+        257,
+        239,
+        264,
+        198,
+        227
+      ]
+    },
+    {
+      "run_id": 4,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T14:49:07.788085",
+      "execution_time_seconds": 8134.22,
+      "total_facts": 51,
+      "facts_per_turn": 5.1,
+      "total_objects": 19,
+      "total_inconsistencies": 3,
+      "inconsistency_rate": 0.3,
+      "repeated_inconsistencies": 4,
+      "inconsistencies_by_type": {
+        "anacronismo": 3
+      },
+      "avg_turn_length_words": 236.4,
+      "turn_lengths": [
+        213,
+        268,
+        227,
+        226,
+        195,
+        260,
+        298,
+        223,
+        234,
+        220
+      ]
+    },
+    {
+      "run_id": 5,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T14:53:42.818589",
+      "execution_time_seconds": 275.03,
+      "total_facts": 50,
+      "facts_per_turn": 5.0,
+      "total_objects": 19,
+      "total_inconsistencies": 3,
+      "inconsistency_rate": 0.3,
+      "repeated_inconsistencies": 4,
+      "inconsistencies_by_type": {
+        "anacronismo": 3
+      },
+      "avg_turn_length_words": 245.5,
+      "turn_lengths": [
+        244,
+        300,
+        263,
+        236,
+        217,
+        241,
+        262,
+        219,
+        229,
+        244
+      ]
+    },
+    {
+      "run_id": 6,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T14:58:16.438771",
+      "execution_time_seconds": 273.6,
+      "total_facts": 50,
+      "facts_per_turn": 5.0,
+      "total_objects": 20,
+      "total_inconsistencies": 4,
+      "inconsistency_rate": 0.4,
+      "repeated_inconsistencies": 4,
+      "inconsistencies_by_type": {
+        "anacronismo": 4
+      },
+      "avg_turn_length_words": 238.3,
+      "turn_lengths": [
+        268,
+        242,
+        240,
+        242,
+        179,
+        319,
+        270,
+        212,
+        226,
+        185
+      ]
+    },
+    {
+      "run_id": 7,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T15:02:49.945731",
+      "execution_time_seconds": 273.49,
+      "total_facts": 47,
+      "facts_per_turn": 4.7,
+      "total_objects": 20,
+      "total_inconsistencies": 4,
+      "inconsistency_rate": 0.4,
+      "repeated_inconsistencies": 4,
+      "inconsistencies_by_type": {
+        "anacronismo": 4
+      },
+      "avg_turn_length_words": 239.1,
+      "turn_lengths": [
+        262,
+        235,
+        223,
+        219,
+        262,
+        216,
+        288,
+        215,
+        231,
+        240
+      ]
+    },
+    {
+      "run_id": 8,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T15:07:23.151800",
+      "execution_time_seconds": 273.18,
+      "total_facts": 54,
+      "facts_per_turn": 5.4,
+      "total_objects": 19,
+      "total_inconsistencies": 3,
+      "inconsistency_rate": 0.3,
+      "repeated_inconsistencies": 2,
+      "inconsistencies_by_type": {
+        "anacronismo": 3
+      },
+      "avg_turn_length_words": 232.7,
+      "turn_lengths": [
+        261,
+        261,
+        219,
+        245,
+        197,
+        223,
+        254,
+        216,
+        242,
+        209
+      ]
+    },
+    {
+      "run_id": 9,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T15:11:57.796007",
+      "execution_time_seconds": 274.63,
+      "total_facts": 47,
+      "facts_per_turn": 4.7,
+      "total_objects": 13,
+      "total_inconsistencies": 4,
+      "inconsistency_rate": 0.4,
+      "repeated_inconsistencies": 6,
+      "inconsistencies_by_type": {
+        "anacronismo": 4
+      },
+      "avg_turn_length_words": 243.5,
+      "turn_lengths": [
+        260,
+        216,
+        219,
+        263,
+        286,
+        204,
+        270,
+        264,
+        226,
+        227
+      ]
+    },
+    {
+      "run_id": 10,
+      "strategy": "B",
+      "turns": 10,
+      "timestamp": "2026-01-06T15:16:29.680400",
+      "execution_time_seconds": 271.87,
+      "total_facts": 52,
+      "facts_per_turn": 5.2,
+      "total_objects": 16,
+      "total_inconsistencies": 4,
+      "inconsistency_rate": 0.4,
+      "repeated_inconsistencies": 4,
+      "inconsistencies_by_type": {
+        "anacronismo": 4
+      },
+      "avg_turn_length_words": 231.1,
+      "turn_lengths": [
+        243,
+        300,
+        199,
+        223,
+        225,
+        231,
+        257,
+        230,
+        184,
+        219
+      ]
+    }
+  ],
+  "summary": {
+    "method_A_stats": {
+      "avg_facts": 63.6,
+      "avg_objects": 18.7,
+      "avg_inconsistencies": 1.2,
+      "avg_repeated_inconsistencies": 0.1,
+      "avg_inconsistency_rate": 0.12,
+      "avg_turn_length": 325.05
+    },
+    "method_B_stats": {
+      "avg_facts": 50.0,
+      "avg_objects": 18.7,
+      "avg_inconsistencies": 3.4,
+      "avg_repeated_inconsistencies": 3.7,
+      "avg_inconsistency_rate": 0.34,
+      "avg_turn_length": 238.14
+    }
+  }
+}
